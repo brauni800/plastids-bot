@@ -1,0 +1,28 @@
+{
+  "name": "plastids-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Plastidos server community",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brauni800/plastids-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "plastidos"
+  ],
+  "author": "Braulio Betancourt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brauni800/plastids-bot/issues"
+  },
+  "homepage": "https://github.com/brauni800/plastids-bot#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
